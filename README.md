@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/RezwanLabs.png" width="150" alt="RezwanLabs Logo" />
+
 # RezwanLabs
 
 ### Building the Future, One Line at a Time.
