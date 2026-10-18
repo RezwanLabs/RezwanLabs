@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/RezwanLabs.png" width="150" alt="RezwanLabs Logo" />
+# Rezwan
 
 <img src="./RezwanLabs-banner.png.png" width="100%" alt="RezwanLabs Banner" />
 
